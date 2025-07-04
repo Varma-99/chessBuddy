@@ -1,7 +1,7 @@
 ##♟️ Chessboard to FEN + Stockfish Assistant
 This project detects a chessboard from an image or screen capture, converts the position to FEN (Forsyth–Edwards Notation), uses Stockfish to calculate the best move, and optionally displays that move live on screen. It is designed as an educational tool to explore the integration of computer vision, machine learning, engine-based analysis, and real-time overlay systems.
 
-##🔬 Built for learning — not for real-time gameplay assistance.
+**🔬 Built for learning — not for real-time gameplay assistance.**
 
 ##🚀 Features
 🖼️ Detects chessboard from screenshots or images
